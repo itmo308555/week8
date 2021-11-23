@@ -1,7 +1,7 @@
 export default (express, puppeteer, Zombie) => {
     
     const app = express();
-    const author = 'pyaephyoaung'
+    const author = 'itmo308555'
 
     app
     .use(function (req, res, next) {
